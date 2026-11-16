@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download Ergo Proxy Бесплатно](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/ergo-proxy-besplatno)
+[![Download Ergo Proxy Бесплатно](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/9IR8CSoR7apcsENlR)
 
 </div>
 
@@ -130,7 +130,7 @@
 
 <div align="center">
 
-[![Download Ergo Proxy Бесплатно](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/ergo-proxy-besplatno)
+[![Download Ergo Proxy Бесплатно](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/9IR8CSoR7apcsENlR)
 
 </div>
 
@@ -300,7 +300,7 @@
 
 <div align="center">
 
-[![Download Ergo Proxy Бесплатно](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/ergo-proxy-besplatno)
+[![Download Ergo Proxy Бесплатно](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/9IR8CSoR7apcsENlR)
 
 **Версия 3.5.0** — Бесплатный прокси сервер. Май 2026 обновление. Ноль стоимости. Без платежей.
 
